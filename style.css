@@ -212,6 +212,7 @@ footer {
   padding: 20px;
   width: 100%;
   bottom: 0;
+  position: relative;
 }
 
 footer>ul {
